@@ -1,6 +1,6 @@
 # Hi, I'm Lee Grobler
 
-I’m a passionate frontend developer with a journey that began in 2016 as a full-stack developer. After exploring both sides of the stack, I found my true calling in frontend development in 2018, specializing in Vue.js and Nuxt.js. Since then, I've been working on numerous projects focusing on creating intuitive, responsive user interfaces. While Vue is my primary framework, I’ve also gained experience in Angular, React (Next.js), and various frontend tools like CSS, TypeScript, Node.js, and Express.js.
+I’m a passionate frontend developer with a journey that began in 2016 as a full-stack developer. After exploring both sides of the stack, I found my true calling in frontend development in 2018, specializing in Vue.js and Nuxt.js. Since then, I've been working on numerous projects focusing on creating intuitive, responsive user interfaces. While Vue is my primary framework, I’ve also gained experience in Angular, React (Next.js and React Native), and various frontend tools like CSS, TypeScript, Node.js, and Express.js.
 
 ## What I’m Currently Working On
 
